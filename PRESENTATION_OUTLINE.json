@@ -1,0 +1,20 @@
+{
+  "title": "JanVikas AI \u2014 Citizen Voice to Government Action",
+  "slides": [
+    "1. Title \u2014 JanVikas AI",
+    "2. Problem \u2014 fragmented citizen requests and misaligned infrastructure spending",
+    "3. Solution \u2014 multilingual AI public-development intelligence platform",
+    "4. Users \u2014 citizens, municipal officers, policymakers",
+    "5. Architecture \u2014 input channels \u2192 AI/NLP \u2192 data/GIS \u2192 priority engine \u2192 dashboards",
+    "6. AI Features \u2014 classification, urgency scoring, summarization, translation, hotspot detection, recommendations",
+    "7. Database \u2014 citizen requests, locations, demographics, infrastructure indicators, project actions",
+    "8. UI Demo \u2014 citizen submission screen",
+    "9. UI Demo \u2014 AI analysis and priority score",
+    "10. UI Demo \u2014 hotspot map and analytics",
+    "11. Policymaker dashboard \u2014 top priorities and recommended actions",
+    "12. Impact \u2014 faster triage, evidence-based planning, transparent citizen feedback",
+    "13. Future Scope \u2014 voice, WhatsApp, RAG, forecasting, real GIS and government integrations",
+    "14. Demo story \u2014 1 request \u2192 AI score \u2192 hotspot \u2192 recommendation \u2192 resolution",
+    "15. Closing \u2014 From citizen voice to measurable public action"
+  ]
+}
